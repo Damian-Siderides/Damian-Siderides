@@ -1,4 +1,8 @@
-## Hi there 👋
+# Damian Siderides
+
+Hello I'm Damian.
+
+I am interested in Web Programming and Game Programming.
 
 <!--
 **Damian-Siderides/Damian-Siderides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
